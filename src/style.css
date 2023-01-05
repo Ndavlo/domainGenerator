@@ -1,1 +1,26 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.ulDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.my-list {
+  color: white;
+}
+
+.buttoncontainer {
+  display: flex;
+}
+
+.button {
+  margin: auto;
+}
